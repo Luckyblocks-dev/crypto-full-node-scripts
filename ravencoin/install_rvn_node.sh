@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Huge thanks to PapaChurbz for systemd configuration!
+# Huge thanks to MinerManGPU for systemd configuration!
 sleep 1
 # Install script written by Luckyblocks - pool operator of The #1 Zero Fee Ravencoin mining pool - https://ravenpool.ninja
 # support@ravenpool.ninja
@@ -86,7 +86,7 @@ sleep 8
 
 cecho "CYAN" "Starting..."
 sleep 1.5
-cecho "YELLOW" "Huge thanks to PapaChurbz for systemd configuration!"
+cecho "YELLOW" "Huge thanks to MinerManGPU for systemd configuration!"
 sleep 4
 cecho "YELLOW" "Expanding the disk...please wait..."
 disk-expand
